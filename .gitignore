@@ -1,0 +1,44 @@
+# Игнорируемые файлы для проекта Ассоциации «НОСО»
+
+# Временные файлы
+*.tmp
+*.temp
+
+# Логи
+*.log
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Редакторские файлы
+.vscode/
+.idea/
+
+# Если в будущем добавится JavaScript/Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Если в будущем добавится Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Если в будущем добавится Ruby
+.bundle/
+.byebug_history
+.gem
+Gemfile.lock
+*.gem
+
+# Другие
+*.swp
+*.swo
+*~
